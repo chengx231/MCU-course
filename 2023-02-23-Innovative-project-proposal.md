@@ -33,7 +33,9 @@ This homework is to propose an innovative project and describe the key features,
 3. 供電方式:鋰電池
 4. 聯網方式:WiFi或BT to 手機
 ### 影片
+
 <iframe width="1239" height="697" src="https://www.youtube.com/embed/9Vmwsg8Eabo" title="What Is The Scariest Thing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **所需相關技術：**
 1. 滑軌式機器手臂 ＆ 軟式夾具
 2. 食物辨識分類：Jetson-Nano + IMX219
