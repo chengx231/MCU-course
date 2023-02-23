@@ -25,6 +25,7 @@ This homework is to propose an innovative project and describe the key features,
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
 2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+![image](https://user-images.githubusercontent.com/126163695/220924990-4a4d47df-4d17-419f-b447-ed56760bfec6.png.raw=true)
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
