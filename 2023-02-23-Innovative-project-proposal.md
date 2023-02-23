@@ -39,7 +39,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 電子鼻：氣味感測與辨識 MQ2
 
 ### 系統方塊圖
-![image](https://user-images.githubusercontent.com/126163695/220918800-c5d8281d-94dc-4d86-b03e-f8308d5ee8a1.png)
+![image](https://github.com/chengx231/MCU-course/blob/main/images/125075.jpg?raw=true)
 
 ---
 ## Market Analysis (市場分析)
