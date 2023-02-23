@@ -39,7 +39,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 電子鼻：氣味感測與辨識 MQ2
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+<iframe width="1239" height="697" src="https://www.youtube.com/embed/9Vmwsg8Eabo" title="What Is The Scariest Thing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ---
