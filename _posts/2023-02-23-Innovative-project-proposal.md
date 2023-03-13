@@ -30,12 +30,12 @@ This homework is to propose an innovative project and describe the key features,
 **系統設計考量：**<br>
 1. 操作方式:ESP32-CAM
 2. 供電方式:鋰電池
-3. 聯網方式:WiFi
+3. 聯網方式:WiFi、藍芽
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 圖像辨識
+2. 亮度感測
+3. 紅外線感測
 
 ### 系統方塊圖
 <iframe width="1239" height="697" src="https://www.youtube.com/embed/9Vmwsg8Eabo" title="What Is The Scariest Thing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
