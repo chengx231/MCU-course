@@ -29,7 +29,7 @@ This homework is to propose an innovative project and describe the key features,
 ### 設計考量與相關技術
 **系統設計考量：**<br>
 1. 操作方式:ESP32-CAM
-2. 供電方式:鋰電池
+2. 供電方式:電源供應器
 3. 聯網方式:WiFi、藍芽
 
 **所需相關技術：**
