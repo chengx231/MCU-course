@@ -29,7 +29,7 @@ This homework is to propose an innovative project and describe the key features,
 ### 設計考量與相關技術
 **系統設計考量：**<br>
 1. 操作方式:ESP32-CAM
-2. 供電方式:電源供應器
+2. 供電方式:電腦
 3. 聯網方式:WiFi、藍芽
 
 **所需相關技術：**
@@ -38,7 +38,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 紅外線感測
 
 ### 系統方塊圖
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/9Vmwsg8Eabo" title="What Is The Scariest Thing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[<iframe width="1239" height="697" src="https://www.youtube.com/embed/9Vmwsg8Eabo" title="What Is The Scariest Thing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://github.com/chengx231/MCU-course/blob/main/images/project.jpg?raw=true)
 
 
 ---
