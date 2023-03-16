@@ -38,8 +38,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 紅外線感測
 
 ### 系統方塊圖
-[
-(https://github.com/chengx231/MCU-course/blob/5e10ff8cf4f483806da729c9316e7d5a59eae11b/images/project.jpg)](https://github.com/chengx231/MCU-course/blob/5e10ff8cf4f483806da729c9316e7d5a59eae11b/images/project.jpg)
+![](https://github.com/chengx231/MCU-course/blob/5e10ff8cf4f483806da729c9316e7d5a59eae11b/images/project.jpg?raw=true)
 
 ---
 ## Market Analysis (市場分析)
