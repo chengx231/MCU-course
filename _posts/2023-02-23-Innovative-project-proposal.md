@@ -11,51 +11,32 @@ This homework is to propose an innovative project and describe the key features,
 ---
 ## Homework Report Format
 **Contents:**<br>
-* **應用與功能說明**
-  - Specify the future home application, and Describe the key features
-  - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
-* **設計考量與所需相關技術**
-  - List all design considerations and the required technologies
-* **系統方塊圖**
-  - Draw a System Block Diagram
+
 
 ---
-## 家庭監視器系統
+## 居家盲人導引系統
 
 ### 應用功能說明
-1. 時刻監控 
-2. 偵測移動物體拍照
+1. 時刻偵測前方以及地面物體 
+2. 紀錄路徑與建構室內地圖
+3. 紀錄使用者資訊
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:ESP32-CAM
-2. 供電方式:電腦
+1. 操作方式:ESP32-CAM，手持式 or 掛式3D掃描器
+2. 供電方式:MCU
 3. 聯網方式:WiFi、藍芽
 
 **所需相關技術：**
 1. 圖像辨識
 2. 亮度感測
 3. 紅外線感測
+4. 訊號處理
+5. 3D scanner 建模
 
 ### 系統方塊圖
 ![](https://github.com/chengx231/MCU-course/blob/5e10ff8cf4f483806da729c9316e7d5a59eae11b/images/project.jpg?raw=true)
 
----
-## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
-
-### TAM of Future Home Products
-The Target Market size (TAM) of Future Home Products is the number of household.<br>
-
-### Taiwan Households = 8.93M (台灣 9百萬戶）
-* [Total number of households in Taiwan from 2010 to 2020(in 1,000s)](https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.)
-
-### Japan Households = 57.2M (日本 5千7百萬戶)
-* [Number of Households in Japan](https://www.helgilibrary.com/indicators/number-of-households/japan/) 
-
-### American Households = 129.93M (美國 1.3億戶)
-* [Number of households in the U.S. from 1960 to 2021(in millions)](https://www.statista.com/statistics/183635/number-of-households-in-the-us/)<br>
-* [The average American household consisted of 2.51 people in 2021.](https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/)<br>
 
 <br>
 <br>
