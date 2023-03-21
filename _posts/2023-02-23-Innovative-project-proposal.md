@@ -35,7 +35,7 @@ This homework is to propose an innovative project and describe the key features,
 5. 3D scanner 建模
 
 ### 系統方塊圖
-![](https://github.com/chengx231/MCU-course/blob/5e10ff8cf4f483806da729c9316e7d5a59eae11b/images/project.jpg?raw=true)
+![](https://github.com/chengx231/MCU-course/blob/main/images/project.jpg?raw=true)
 
 
 <br>
