@@ -37,12 +37,12 @@ This homework is to propose an innovative project and describe the key features,
 ### 系統方塊圖
 ![](https://github.com/chengx231/MCU-course/blob/main/images/project.jpg?raw=true)
 ![](https://user-images.githubusercontent.com/126163695/227110672-687fbb4a-9527-4d8a-904f-02b72d3b1720.png)
-
+![](https://github.com/chengx231/MCU-course/blob/main/images/blind.jpg?raw=true)
 
 
 <br>
 <br>
 
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+
 
 
