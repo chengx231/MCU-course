@@ -25,8 +25,6 @@ category: [Homework]
 ---
 ## 向右
 ---
-## Homework Report Format
-**Contents:**<br>
 
 
 ---
@@ -34,5 +32,3 @@ category: [Homework]
 ### 系統方塊圖
 
 
-<br>
-<br>
