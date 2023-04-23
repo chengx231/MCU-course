@@ -17,7 +17,7 @@ tags: [ESP-32,BLE,Wifi]
 ### NodeMCU自走車
 ---
 ## 前進
-![](https://www.youtube.com/shorts/vw0Oo5jidaM=true)
+
 ---
 ## 後退
 ---
