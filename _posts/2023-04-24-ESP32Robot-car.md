@@ -10,10 +10,10 @@ tags: [Wifi,BLE,car]
 ## 系統方塊圖
 ---
 ## 硬體元件
-### * 18650電池x2(3.7V)+雙槽電池盒
-### * 穩壓IC LV7805
-### * 直流驅動馬達 DRV8833
-### * NodeMCU自走車
+* 18650電池x2(3.7V)+雙槽電池盒
+* 穩壓IC LV7805
+* 直流驅動馬達 DRV8833
+* NodeMCU自走車
 ---
  * 程式碼(Arduino) 
 ```
@@ -149,6 +149,7 @@ void loop() {
   server.handleClient();
 }
 ```
+
 ## 前進
 <iframe width="449" height="798" src="https://www.youtube.com/embed/vw0Oo5jidaM" title="forwork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
