@@ -5,7 +5,7 @@ author: [Richard Kuo]
 category: [Lecture]
 tags: [Wifi,BLE,car]
 ---
-# 藍芽遙控機器人
+# WiFi遙控機器人
 ---
 ## 系統方塊圖
 ---
