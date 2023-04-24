@@ -17,8 +17,9 @@ tags: [Wifi,BLE,car]
 * NodeMCU自走車
 ---
  * 程式碼(Arduino)
+<pre>
+<code>
 
-<p style="text-align:left;">
   // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz<br><br> 
   // ESP32 Webserver to receive commands to control RoboCar<br> <br> 
   <br> 
@@ -161,7 +162,9 @@ tags: [Wifi,BLE,car]
   void loop() {<br> 
   server.handleClient();<br> 
   }<br>       
- </p>
+
+</code>
+</pre>
 
 ## 前進
 <iframe width="449" height="798" src="https://www.youtube.com/embed/vw0Oo5jidaM" title="forwork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
