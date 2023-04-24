@@ -17,7 +17,7 @@ tags: [jekyll, ai]
 ### NodeMCU自走車
 ---
 ## 前進
-
+ [](https://www.youtube.com/shorts/vw0Oo5jidaM)
 ---
 ## 後退
 ---
