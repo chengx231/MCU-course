@@ -2,7 +2,7 @@
 layout: post
 title: ESP32Robot car
 author: [Chang]
-category: [lecture]
+category: [Lecture]
 
 ---
 # 藍芽遙控機器人
