@@ -9,14 +9,14 @@ tags: [Wifi,BLE,car]
 ---
 ## 系統方塊圖
 ---
-## 元件
+## 硬體元件
 ### *18650電池x2(3.7V)+雙槽電池盒
 ### *穩壓IC LV7805
 ### *直流驅動馬達 DRV8833
 ### *NodeMCU自走車
 ---
-*程式碼
-```Arduino 
+ * 程式碼(Arduino) 
+```
 // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
 // ESP32 Webserver to receive commands to control RoboCar
 
