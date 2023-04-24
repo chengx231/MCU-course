@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ESP32Robot car
-author: [Chang]
+author: [Richard Kuo]
 category: [Lecture]
-
+tags: [jekyll, ai]
 ---
 # 藍芽遙控機器人
 ---
