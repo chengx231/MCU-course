@@ -17,7 +17,8 @@ tags: [jekyll, ai]
 ### NodeMCU自走車
 ---
 ## 前進
- [](https://www.youtube.com/shorts/vw0Oo5jidaM)
+ <iframe width="703" height="395" src="https://www.youtube.com/shorts/vw0Oo5jidaM" title="Robot_car_forward" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 ---
 ## 後退
 ---
