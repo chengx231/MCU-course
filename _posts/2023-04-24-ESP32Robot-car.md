@@ -17,8 +17,8 @@ tags: [Wifi,BLE,car]
 * NodeMCU自走車
 ---
  * 程式碼(Arduino)
- ```
-  // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
+<p>
+  // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz<br>
   // ESP32 Webserver to receive commands to control RoboCar
   
   #include <WiFi.h>
@@ -129,38 +129,38 @@ tags: [Wifi,BLE,car]
   Serial.println("Motor Pins assigned...");
   motor.attachMotors(IN1pin, IN2pin, IN3pin, IN4pin);
   
-  // Connect to Wi-Fi network with SSID and password
-  Serial.print("Connecting to ");
-  Serial.println(ssid);
-  WiFi.begin(ssid, password);
-  while (WiFi.status() != WL_CONNECTED) {
-  	delay(500);
-  	Serial.print(".");
-  }
-  // Print local IP address and start web server
-  Serial.println("");
-  Serial.println("WiFi connected.");
-  Serial.println("IP address: ");
-  Serial.println(WiFi.localIP());
+  // Connect to Wi-Fi network with SSID and password<br> 
+  Serial.print("Connecting to ");<br> 
+  Serial.println(ssid);<br> 
+  WiFi.begin(ssid, password);<br> 
+  while (WiFi.status() != WL_CONNECTED) {<br> 
+  	delay(500);<br> 
+  	Serial.print(".");<br> 
+  }<br> 
+  // Print local IP address and start web server<br> 
+  Serial.println("");<br> 
+  Serial.println("WiFi connected.");<br> 
+  Serial.println("IP address: ");<br> 
+  Serial.println(WiFi.localIP());<br> 
+  <br> 
+  server.on("/", handleRoot);<br> 
+  server.on("/cmd1", cmd1);<br> 
+  server.on("/cmd2", cmd2);<br> 
+  server.on("/cmd3", cmd3);<br> 
+  server.on("/cmd4", cmd4);<br> 
+  server.on("/cmd5", cmd5);<br>   
   
-  server.on("/", handleRoot);
-  server.on("/cmd1", cmd1);
-  server.on("/cmd2", cmd2);
-  server.on("/cmd3", cmd3);
-  server.on("/cmd4", cmd4);  
-  server.on("/cmd5", cmd5);  
+  Serial.println("HTTP server started");<br> 
+  server.begin();<br> 
   
-  Serial.println("HTTP server started");
-  server.begin();
-  
-  motor.motorStop(motorR);
-  motor.motorStop(motorL);
-  }
-  
-  void loop() {
-  server.handleClient();
-  }       
- ```
+  motor.motorStop(motorR);<br> 
+  motor.motorStop(motorL);<br> 
+  }<br> 
+  <br> 
+  void loop() {<br> 
+  server.handleClient();<br> 
+  }<br>       
+ </p>
 
 ## 前進
 <iframe width="449" height="798" src="https://www.youtube.com/embed/vw0Oo5jidaM" title="forwork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
