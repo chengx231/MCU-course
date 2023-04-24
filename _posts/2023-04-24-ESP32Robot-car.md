@@ -18,7 +18,7 @@ tags: [Wifi,BLE,car]
 ---
  * 程式碼(Arduino)
 ```
-<p>
+<p style="text-align:center;">
   // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz<br><br> 
   // ESP32 Webserver to receive commands to control RoboCar<br> <br> 
   <br> 
