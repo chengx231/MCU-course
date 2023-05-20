@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Pulse oximetry
+title:Pulseoximetry
 author: [Cheng]
 category: [Lecture]
 tags: [Wifi,BLE,car]
