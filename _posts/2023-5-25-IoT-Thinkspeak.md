@@ -3,7 +3,7 @@ layout: post
 title: Pulse-oximetry
 author: [Cheng]
 category: [Homework]
-tags: [,I2C]
+tags: [1]
 
 ---
 
