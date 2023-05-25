@@ -10,7 +10,8 @@ tags: [Wifi,BLE,car]
 * HTU21DF x 1
 * ESP32 x 2 (one for server, one for client)
 # 說明
-使用ESP32 建立server，實現在同個網域下的即時溫溼度測量。
+
+**使用ESP32 建立server，建立client，實現在同個網域下的不同晶片機的即時溫溼度測量。**
 
 ---
 ## 溫溼度量測
