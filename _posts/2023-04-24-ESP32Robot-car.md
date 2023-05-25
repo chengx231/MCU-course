@@ -5,7 +5,7 @@ author: [Cheng]
 category: [Lecture]
 tags: [Wifi,BLE,car]
 ---
-# RoboCar_WebUI
+使用DRV8833 馬達驅動NodeMCU自走小車
 ---
 ## 系統方塊圖
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/1e845e4b44920158de33d51028f84ca12904bd1c/images/Robot_CAR.png)
@@ -13,10 +13,13 @@ tags: [Wifi,BLE,car]
 ## 硬體元件
 * 18650電池x2(3.7V)+雙槽電池盒
 * 穩壓IC LV7805
-* 直流驅動馬達 DRV8833
+* 直流馬達驅動板 DRV8833
 * NodeMCU自走車
+* 焊錫、單芯線、開關、小車模組
 ---
- * 程式碼(Arduino)
+
+# RoboCar_WebUI
+## 程式碼(Arduino)
 
 ```
 
