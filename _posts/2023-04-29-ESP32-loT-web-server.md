@@ -9,23 +9,24 @@ tags: [Wifi,BLE,car]
 ## 元件
 * HTU21DF x 1
 * ESP32 x 2 (one for server, one for client)
-* 
+# 說明
+使用ESP32 建立server，實現在同個網域下的即時溫溼度測量。
 
 ---
-溫溼度量測
+## 溫溼度量測
 ![](https://github.com/chengx231/MCU-course/blob/main/images/150963.jpg)
 ---
-開發板佈署
+##　開發板佈署
 ![](https://github.com/chengx231/MCU-course/blob/main/images/150964.jpg?raw=true)
 ---
-server 序列埠監控
+## server 序列埠監控
 ![](https://github.com/chengx231/MCU-course/blob/main/images/150965.jpg?raw=true)
 ---
-client 序列埠監控
+## client 序列埠監控
 ![](https://github.com/chengx231/MCU-course/blob/main/images/150966.jpg?raw=true)
 ---
-code
-## server
+# code
+* For server ESP32
 
 ```
 //
@@ -227,7 +228,7 @@ void loop() {
 }
 ```
 
-## client
+## For client ESP32
 
 ```
 // Webclient to read HTU21DF and send data to Webserver
