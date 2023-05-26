@@ -6,9 +6,11 @@ category: [Lecture]
 tags: [Pulse,I2C]
 
 ---
-
+# 說明 
+ **使用ESP32搭載MAX30102量測心跳與血氧**
 ## 所需元件 
 * MAX30102 PPG (Photoplethysmogram) sensor
+* ESP32
 ## 所需軟體
 * Arduino Library: Sparkfun MAX3010x
 * Examples > Sparkfun MAX3010x Pulse and Proximity Sensor Library>Example1_Basic_Readings
