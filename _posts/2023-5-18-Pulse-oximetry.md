@@ -20,7 +20,7 @@ tags: [Pulse,I2C]
 ## 實作圖片
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/f9517ff6d35f8c1c936d32c4c08a8e1a2f58ad76/images/1685017092275.jpg)
 ## 實作圖片
-![](https://raw.githubusercontent.com/chengx231/MCU-course/f9517ff6d35f8c1c936d32c4c08a8e1a2f58ad76/images/1685017092275.jpg)
+![](https://github.com/chengx231/MCU-course/blob/main/images/1685017092126.jpg?raw=true)
 ## 實作圖片
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/f9517ff6d35f8c1c936d32c4c08a8e1a2f58ad76/images/1685017087215.jpg)
 # Code
