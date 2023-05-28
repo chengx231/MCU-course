@@ -8,6 +8,10 @@ tags: [I2C,API]
 ---
 # 說明
 **使用Thingspeak 平台上傳IoT數據，應用前面DHT11的濕溫度數據上傳，繪製變化圖**
+# 硬體元件
+* ESP32 x 1
+* DHT11 x 1
+* smartphone x 1
 ## 系統方塊圖
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/9ce9796164b2e1df6de4dbf9ca4dc02e4aeb12b7/images/%E6%96%B9%E5%A1%8A%E5%9C%96.png)
 # code
