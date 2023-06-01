@@ -15,6 +15,7 @@ tags: [I2C,API]
 ## 系統方塊圖
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/9ce9796164b2e1df6de4dbf9ca4dc02e4aeb12b7/images/%E6%96%B9%E5%A1%8A%E5%9C%96.png)
 # code
+
 ```
 /*
  *  This sketch sends data via HTTP GET requests to thingspeak service every 10 minutes
