@@ -17,7 +17,7 @@ tags: [Pulse,I2C]
 * Examples>Sparkfun MAX3010x Pulse and Proximity Sensor Library>Example4_HeartBeat_plotter
 * Sketch> Sensors> MAX30102_OLED_BPM
 ## 系統方塊圖
-
+![](https://raw.githubusercontent.com/chengx231/MCU-course/e3b51c2d2f2e180433c092bd1a142c773198a00c/images/Pulse%20and%20Proximity%20Sensor.jpg)
 ---
 ## 實作圖片
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/f9517ff6d35f8c1c936d32c4c08a8e1a2f58ad76/images/1685017092275.jpg)
