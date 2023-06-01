@@ -14,6 +14,11 @@ tags: [I2C,API]
 * smartphone x 1
 ## 系統方塊圖
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/9ce9796164b2e1df6de4dbf9ca4dc02e4aeb12b7/images/%E6%96%B9%E5%A1%8A%E5%9C%96.png)
+# 實作影片
+<iframe width="661" height="372" src="https://www.youtube.com/embed/3ULOz2LzMw4" title="6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="418" height="743" src="https://www.youtube.com/embed/tS6ctpU4K7I" title="2023年5月25日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+
 # code
 
 ```
