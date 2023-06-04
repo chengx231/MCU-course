@@ -5,10 +5,23 @@ author: [Cheng]
 category: [Lecture]
 tags: [Wifi,BLE,car]
 ---
-使用DRV8833 馬達驅動NodeMCU自走小車
+# Final Project
+
+## 使用Wifi連線PID自動修正自走小車
+
 ---
 ## 系統方塊圖
 ![](https://raw.githubusercontent.com/chengx231/MCU-course/e3b51c2d2f2e180433c092bd1a142c773198a00c/images/PID%E5%B0%8F%E8%BB%8A.jpg)
+
+## 小車-1
+![](https://raw.githubusercontent.com/chengx231/MCU-course/1a1250b00590c7bec70cad128ea9d17d98290aef/images/A1.jpg)
+
+## 小車-2
+![](https://raw.githubusercontent.com/chengx231/MCU-course/1a1250b00590c7bec70cad128ea9d17d98290aef/images/A2.jpg)
+
+## 小車-3
+![](https://raw.githubusercontent.com/chengx231/MCU-course/1a1250b00590c7bec70cad128ea9d17d98290aef/images/A3.jpg)
+
 ---
 ## 硬體元件
 * 18650電池x2(3.7V)+雙槽電池盒
@@ -18,6 +31,7 @@ tags: [Wifi,BLE,car]
 * 焊錫、單芯線、開關、小車模組
 * MPU6050
 ---
+
 ## 前進
 <iframe width="449" height="798" src="https://www.youtube.com/embed/vw0Oo5jidaM" title="forwork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -199,8 +213,13 @@ For Wifi controll,using DRV8833 + ESP32 +LV7805
 <iframe width="449" height="799" src="https://www.youtube.com/embed/b1AzkakRuUk" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+# 心得
 
-### mine code
+* 最後雖然因為時間不足，不足以做出完全正確的期末作業有些可惜，但4人都有修改程式碼嘗試的過程中，學到逐步解決問題的能力，收穫頗多。
+* 以下附上各位組員的程式碼，雖然都有部分缺失，透過互相交流想法，有解決一些問題。 
+* 總結16周學到的知識，淺入深出，利用jekyll架設github靜態網頁， 從BLE Wifi通訊小車到外加各種I2C、IMC，跟電機一般的課程相當不同也較預期充實。
+
+### 我的程式碼
 
 ```
 // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
