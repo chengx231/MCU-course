@@ -187,7 +187,8 @@ For Wifi controll,using DRV8833 + ESP32 +LV7805
 ```
 
 
-## 加上PID 控制
+## 加上PID 控制 和 MPU6050 偵測座標 實現自動修正
+### 使用Ziegler–Nichols方法控制參數。
 * MPU6050 座標偵測
 <iframe width="449" height="799" src="https://www.youtube.com/embed/4tvbFpI4C40" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
